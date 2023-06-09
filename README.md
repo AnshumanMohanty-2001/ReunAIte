@@ -16,13 +16,13 @@ The project involves tracking people who are reported missing. The missing peopl
 Email: anshumohanty2002@gmail.com
 
 
-[contributors-shield]: https://img.shields.io/github/contributors/AnshumanMohanty-2001/Recognizing-Gender-by-voice-using-Support-Vector-Machine.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/AnshumanMohanty-2001/ReunAIte.svg?style=for-the-badge
 [contributors-url]: https://github.com/AnshumanMohanty-2001/ReunAIte/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/AnshumanMohanty-2001/Recognizing-Gender-by-voice-using-Support-Vector-Machine.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/AnshumanMohanty-2001/ReunAIte.svg?style=for-the-badge
 [forks-url]: https://github.com/AnshumanMohanty-2001/ReunAIte/network/members
-[stars-shield]: https://img.shields.io/github/stars/AnshumanMohanty-2001/Recognizing-Gender-by-voice-using-Support-Vector-Machine.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/AnshumanMohanty-2001/ReunAIte.svg?style=for-the-badge
 [stars-url]: https://github.com/AnshumanMohanty-2001/ReunAIte/stargazers
-[issues-shield]: https://img.shields.io/github/issues/AnshumanMohanty-2001/Recognizing-Gender-by-voice-using-Support-Vector-Machine.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/AnshumanMohanty-2001/ReunAIte.svg?style=for-the-badge
 [issues-url]: https://github.com/AnshumanMohanty-2001/ReunAIte/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/anshuman-mohanty-b21b04231/
